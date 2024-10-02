@@ -1,8 +1,14 @@
 # Jogo do Detona Ralph
-Projeto do bootcamp da DIO em parceria com a Ri Happy.
-
+Jogo  baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer. Projeto do bootcamp da DIO em parceria com a Ri Happy.
+ 
 #  Introdução 🔥
-Jogo  baseado no filme Detona Ralph, aonde o objetivo é acertar o Ralph na janela que ele aparecer.
+Os usuários são capazes de:
+- Jogo iniciado sempre o tempo acaba
+- Contagem de tempo para selecionar a imagem do Ralph,
+- Audio é executada toda vez o Ralph é clicado
+- A imagem do Ralph é mudada de modo interativo e aleatório
+- Atualização das vidas toda vez que o jogador não acertar o Ralph
+- 
 
 ## Tecnologias usadas: 📦
 - HTML
